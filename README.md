@@ -21,4 +21,4 @@ Languages I use
 
 Frameworks and Tools I use
 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=fff)

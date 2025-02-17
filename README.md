@@ -1,4 +1,4 @@
-## Second-Year Computer Science Student at <span style="color: red;">York University</span>
+## Second-Year Computer Science Student at York University
 
 <!--
 **DannyyyL/DannyyyL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

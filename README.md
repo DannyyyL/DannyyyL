@@ -1,4 +1,4 @@
-## Second-Year Computer Science Student at York University
+## Third-Year Computer Science Student at York University
 
 
 Languages

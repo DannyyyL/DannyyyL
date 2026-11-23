@@ -1,15 +1,8 @@
-![Dan Lichtin. From rover cameras to browser tabs.](./assets/profile-header.svg)
+# Dan Lichtin
 
-I’m a computer science student at **York University** in Toronto.
+I study computer science at York University.
 
-## What I’m building
+## Projects
 
-**York University Robotics Society**  
-I work on the rover’s camera controls, motion limits, and joint sensor logging. The logs help us see how the rover behaved during a test run.
-
-**MicroReel**  
-A Chrome extension that plays YouTube Shorts while ChatGPT and other AI assistants respond. [Try MicroReel on the Chrome Web Store](https://chromewebstore.google.com/detail/microreel/ddeomfjlmiibijljfipiehcbbfhanhfi).
-
-## Previously
-
-I spent 12 months at the **Ontario Public Service** as a software development co-op, building internal tools for technology roadmaps and AI intake.
+- **York University Robotics Society** · Rover camera controls, motion limits, and joint sensor logging.
+- **[MicroReel](https://chromewebstore.google.com/detail/microreel/ddeomfjlmiibijljfipiehcbbfhanhfi)** · A Chrome extension that plays YouTube Shorts while AI assistants respond.

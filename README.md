@@ -1,17 +1,15 @@
-# Dan Lichtin
+![Dan Lichtin. From rover cameras to browser tabs.](./assets/profile-header.svg)
 
-**Computer Science at York University · Toronto**
-
-I build software for robots, internal teams, and the browser.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/dan-lichtin/)
-[![MicroReel](https://img.shields.io/badge/MicroReel-Try%20it-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/microreel/ddeomfjlmiibijljfipiehcbbfhanhfi)
+I’m a computer science student at **York University** in Toronto.
 
 ## What I’m building
 
-- **York University Robotics Society** · I work on our rover’s camera controls, motion safety, and joint sensor logging.
-- **[MicroReel](https://chromewebstore.google.com/detail/microreel/ddeomfjlmiibijljfipiehcbbfhanhfi)** · A Chrome extension that plays YouTube Shorts while you wait for an AI response.
+**York University Robotics Society**  
+I work on the rover’s camera controls, motion limits, and joint sensor logging. The logs help us see how the rover behaved during a test run.
+
+**MicroReel**  
+A Chrome extension that plays YouTube Shorts while ChatGPT and other AI assistants respond. [Try MicroReel on the Chrome Web Store](https://chromewebstore.google.com/detail/microreel/ddeomfjlmiibijljfipiehcbbfhanhfi).
 
 ## Previously
 
-I spent 12 months as a software development co-op at the **Ontario Public Service**, where I built internal tools for technology roadmaps and AI intake.
+I spent 12 months at the **Ontario Public Service** as a software development co-op, building internal tools for technology roadmaps and AI intake.
